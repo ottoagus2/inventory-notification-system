@@ -1,0 +1,55 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+
+# Visual Studio
+.vs/
+*.vscode/
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Docker
+.docker/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# JetBrains
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# SSL certificates (if any)
+*.pfx
+*.p12
+*.crt
+*.key

@@ -1,0 +1,94 @@
+
+
+services:
+  # RabbitMQ Service
+  rabbitmq:
+    image: rabbitmq:3.13-management
+    container_name: inventory-rabbitmq
+    hostname: rabbitmq
+    ports:
+      - "5672:5672"     # AMQP port
+      - "15672:15672"   # Management UI port
+    environment:
+      - RABBITMQ_DEFAULT_USER=admin
+      - RABBITMQ_DEFAULT_PASS=admin123
+      - RABBITMQ_DEFAULT_VHOST=/
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    networks:
+      - inventory-network
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+  # Inventory API Service
+  inventory-api:
+    build:
+      context: ./InventoryAPI
+      dockerfile: Dockerfile
+    container_name: inventory-api
+    ports:
+      - "7022:8080"
+      - "7023:8081"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:8081;http://+:8080
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=password
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+      - ConnectionStrings__DefaultConnection=Data Source=/app/data/inventory.db
+      - RabbitMQ__HostName=rabbitmq
+      - RabbitMQ__Port=5672
+      - RabbitMQ__UserName=admin
+      - RabbitMQ__Password=admin123
+      - RabbitMQ__ExchangeName=inventory_exchange
+    volumes:
+      - inventory_data:/app/data
+      - ~/.aspnet/https:/https:ro
+    networks:
+      - inventory-network
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # Notification Service
+  notification-service:
+    build:
+      context: ./NotificationService
+      dockerfile: Dockerfile
+    container_name: notification-service
+    ports:
+      - "7002:8080"
+      - "7003:8081"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:8081;http://+:8080
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=password
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx
+      - ConnectionStrings__DefaultConnection=Data Source=/app/data/notifications.db
+      - RabbitMQ__HostName=rabbitmq
+      - RabbitMQ__Port=5672
+      - RabbitMQ__UserName=admin
+      - RabbitMQ__Password=admin123
+      - RabbitMQ__ExchangeName=inventory_exchange
+    volumes:
+      - notification_data:/app/data
+      - ~/.aspnet/https:/https:ro
+    networks:
+      - inventory-network
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+
+networks:
+  inventory-network:
+    driver: bridge
+
+volumes:
+  rabbitmq_data:
+  inventory_data:
+  notification_data:

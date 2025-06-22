@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3151207-9ACD-4E72-AC58-92967863D5BE}|Elementos de la soluci\u00F3n{E3151207-9ACD-4E72-AC58-92967863D5BE}|C:\\InventorySystem\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3151207-9ACD-4E72-AC58-92967863D5BE}|Elementos de la soluci\u00F3n{E3151207-9ACD-4E72-AC58-92967863D5BE}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\services\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\notificationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\notificationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\inventoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\inventoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Otto\\Documents\\TESIS SANTI DEGGIOVANI\\FRONT\\final\\InventorySystem\\InventoryAPI\\Migrations\\20250620194935_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\data\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\data\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\models\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\models\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\interfaces\\iinventorylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\interfaces\\iinventorylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\models\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\models\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\services\\inventoryconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\inventoryconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\services\\inventorylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\inventorylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\models\\inventorylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\models\\inventorylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|c:\\inventorysystem\\notificationservice\\migrations\\20250620195501_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360F30B-C2EF-4AB8-88E9-1AF9E535CD63}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\migrations\\20250620195501_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|c:\\inventorysystem\\inventoryapi\\migrations\\20250620195215_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929BCE8-57DD-4B30-86F3-FD3D40777B41}|InventoryAPI\\InventoryAPI.csproj|solutionrelative:inventoryapi\\migrations\\20250620195215_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "InventoryAPI\\Dockerfile",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Dockerfile",
+              "RelativeToolTip": "InventoryAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-22T18:09:38.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Dockerfile",
+              "RelativeDocumentMoniker": "NotificationService\\Dockerfile",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Dockerfile",
+              "RelativeToolTip": "NotificationService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-22T17:52:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Services\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Services\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "NotificationService\\Services\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:36:53.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryAPI\\appsettings.json",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\appsettings.json",
+              "RelativeToolTip": "InventoryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T19:08:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\InventorySystem\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\InventorySystem\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-20T20:10:19.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\appsettings.json",
+              "RelativeDocumentMoniker": "NotificationService\\appsettings.json",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\appsettings.json",
+              "RelativeToolTip": "NotificationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T19:08:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.http",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\NotificationService.http",
+              "RelativeDocumentMoniker": "NotificationService\\NotificationService.http",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\NotificationService.http",
+              "RelativeToolTip": "NotificationService\\NotificationService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-22T17:52:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Program.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Program.cs",
+              "RelativeToolTip": "InventoryAPI\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwGkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:10:54.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Program.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Program.cs",
+              "RelativeToolTip": "NotificationService\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:38:24.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryAPI.csproj",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\InventoryAPI.csproj",
+              "RelativeDocumentMoniker": "InventoryAPI\\InventoryAPI.csproj",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\InventoryAPI.csproj",
+              "RelativeToolTip": "InventoryAPI\\InventoryAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T19:00:19.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Services\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Services\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Services\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "InventoryAPI\\Services\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:20:29.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\.editorconfig",
+              "RelativeDocumentMoniker": "InventoryAPI\\.editorconfig",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\.editorconfig",
+              "RelativeToolTip": "InventoryAPI\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-20T20:14:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Models\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Models\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Models\\RabbitMQSettings.cs",
+              "RelativeToolTip": "InventoryAPI\\Models\\RabbitMQSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:12:28.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250620195501_InitialCreate.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Migrations\\20250620195501_InitialCreate.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Migrations\\20250620195501_InitialCreate.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Migrations\\20250620195501_InitialCreate.cs",
+              "RelativeToolTip": "NotificationService\\Migrations\\20250620195501_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:55:01.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationService.csproj",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\NotificationService.csproj",
+              "RelativeDocumentMoniker": "NotificationService\\NotificationService.csproj",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\NotificationService.csproj",
+              "RelativeToolTip": "NotificationService\\NotificationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T19:07:55.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250620194935_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Otto\\Documents\\TESIS SANTI DEGGIOVANI\\FRONT\\final\\InventorySystem\\InventoryAPI\\Migrations\\20250620194935_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Otto\\Documents\\TESIS SANTI DEGGIOVANI\\FRONT\\final\\InventorySystem\\InventoryAPI\\Migrations\\20250620194935_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Otto\\Documents\\TESIS SANTI DEGGIOVANI\\FRONT\\final\\InventorySystem\\InventoryAPI\\Migrations\\20250620194935_InitialCreate.cs",
+              "RelativeToolTip": "..\\Users\\Otto\\Documents\\TESIS SANTI DEGGIOVANI\\FRONT\\final\\InventorySystem\\InventoryAPI\\Migrations\\20250620194935_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:49:35.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250620195215_InitialCreate.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Migrations\\20250620195215_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Migrations\\20250620195215_InitialCreate.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Migrations\\20250620195215_InitialCreate.cs",
+              "RelativeToolTip": "InventoryAPI\\Migrations\\20250620195215_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:52:15.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Data\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Data\\InventoryDbContext.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Data\\InventoryDbContext.cs",
+              "RelativeToolTip": "InventoryAPI\\Data\\InventoryDbContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:05:36.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationDbContext.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Data\\NotificationDbContext.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Data\\NotificationDbContext.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Data\\NotificationDbContext.cs",
+              "RelativeToolTip": "NotificationService\\Data\\NotificationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:08:15.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IInventoryLogService.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Interfaces\\IInventoryLogService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Interfaces\\IInventoryLogService.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Interfaces\\IInventoryLogService.cs",
+              "RelativeToolTip": "NotificationService\\Interfaces\\IInventoryLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:16:56.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "InventoryAPI\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:13:03.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Models\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Models\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Models\\RabbitMQSettings.cs",
+              "RelativeToolTip": "NotificationService\\Models\\RabbitMQSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:14:28.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InventoryConsumerService.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Services\\InventoryConsumerService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\InventoryConsumerService.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Services\\InventoryConsumerService.cs",
+              "RelativeToolTip": "NotificationService\\Services\\InventoryConsumerService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:37:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryLogService.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Services\\InventoryLogService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\InventoryLogService.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Services\\InventoryLogService.cs",
+              "RelativeToolTip": "NotificationService\\Services\\InventoryLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:36:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "NotificationService\\Controllers\\LogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:33:33.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "InventoryAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:32:46.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "InventoryAPI\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:19:52.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InventoryLog.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\NotificationService\\Models\\InventoryLog.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Models\\InventoryLog.cs",
+              "ToolTip": "C:\\InventorySystem\\NotificationService\\Models\\InventoryLog.cs",
+              "RelativeToolTip": "NotificationService\\Models\\InventoryLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:07:36.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "InventoryAPI\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:04:57.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\InventorySystem\\InventoryAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\InventorySystem\\InventoryAPI\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:04:12.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
